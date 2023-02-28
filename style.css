@@ -1,0 +1,21 @@
+
+body{
+  background-image: url("bg.png");
+  background-repeat: repeat-x;
+  margin: 0 30%;
+}
+h1.name {
+text-align: center;
+font-size: 3em;
+text-shadow: 5px 5px 10px rgb(21, 21, 24);
+}
+img{
+  width: 450px;
+  height: 400px;
+  display: block;
+ position: relative;
+ margin-top: 100px;
+ margin-bottom: 50px;
+ margin-right: 50px;
+ margin-left: 50px;
+}
